@@ -4,7 +4,7 @@ import { FC } from "react"
  const Navbar: FC = () => {
     return (
     <nav className="nav">
-        <Link to="/" className="site-title">
+        <Link to="/Taksu" className="site-title">
             Personal Website
         </Link>
         <ul>
